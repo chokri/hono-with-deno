@@ -3,7 +3,8 @@
     "std/": "https://deno.land/std@0.192.0/",
     "hono/": "https://deno.land/x/hono/mod.ts/",
     "server/": "https://deno.land/std/http/server.ts/",
-    "/": "./", "./": "./"
+    "/": "./",
+    "./": "./"
   },
   "tasks": {
     "dev": "deno run --watch --allow-net src/index.ts",
