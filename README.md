@@ -1,5 +1,7 @@
 # Simple Deno using Hono
 
+[![Deno](https://github.com/chokri/hono-with-deno/actions/workflows/deno.yml/badge.svg)](https://github.com/chokri/hono-with-deno/actions/workflows/deno.yml)
+
 This repository contains a simple Deno application that utilizes Hono. Hono is a
 lightweight framework for building web servers in Deno. Follow the instructions
 below to run, test, and build the application.
